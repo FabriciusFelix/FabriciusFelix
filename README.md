@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Fabricius e meu gitHub está em Desenvolvimento👋
 
 - 🔭 Estou trabalhando com Back-End
-- 🌱 Aprendendo Mensageria e .Net Core
+- 🌱 Aprendendo Mensageria e conceitos de Arquitetura de Servirços
 - 📫 E-mail: fabricius.felix@gmail.com
 
 <div>

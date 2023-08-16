@@ -2,7 +2,7 @@
 ### Olá, Eu sou o Fabricius e meu gitHub está em Desenvolvimento👋
 
 - 🔭 Estou trabalhando com Back-End
-- 🌱 Aprendendo Mensageria e conceitos de Arquitetura de Servirços
+- 🌱 Aprendendo Mensageria e conceitos de Arquitetura de Software.
 - 📫 E-mail: fabricius.felix@gmail.com
 
 <div>
@@ -13,4 +13,3 @@
 <div>
       
 </div>
-<a href=https://github.com/FabriciusFelix/FabriciusFelix/blob/output/github-contribution-grid-snake.svg/>

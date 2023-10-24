@@ -1,4 +1,4 @@
-### Olá, Eu sou o Fabricius e meu gitHub está em Desenvolvimento👋
+### Olá, Eu sou o Fabricius!👋
 
 - 🔭 Estou trabalhando com Back-End
 - 🌱 Aprendendo Mensageria e conceitos de Arquitetura de Software.

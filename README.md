@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Fabricius!👋
 
 - 🔭 Estou trabalhando com Back-End
-- 🌱 Aprendendo Mensageria e conceitos de Arquitetura de Software.
+- 🌱 Especializando em Mensageria e cursando pós-graduação em Arquitetura de Software com .Net.
 - 📫 E-mail: fabricius.felix@gmail.com
 
 <div>

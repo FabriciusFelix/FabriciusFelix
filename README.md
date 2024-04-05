@@ -9,8 +9,8 @@
     
   ![FabriciusFelix's Stats](https://github-readme-stats.vercel.app/api?username=FabriciusFelix&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
   ![FabriciusFelix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriciusFelix&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
- #  ![FabriciusFelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabriciusFelix&theme=midnight-purple&hide_border=false)
-
+  ![FabriciusFelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FabriciusFelix&theme=midnight-purple&hide_border=false)
+#
 <div style='justify-content : center;'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=11% />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width=12% />  

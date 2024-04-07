@@ -38,6 +38,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          pallete: github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

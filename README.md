@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=12% />
 </div> 
 </div>
-  ##
+  
 <div>
   <a href="https://www.linkedin.com/in/Fabricius-Felix/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
